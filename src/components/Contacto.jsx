@@ -4,7 +4,7 @@ import './Contacto.css'
 
 const CONTACTO = {
   email: 'moisesacces@gmail.com',
-  linkedin: 'www.linkedin.com/in/moises-ramirez-brito-482459272',
+  linkedin: 'https://www.linkedin.com/in/moises-ramirez-brito-482459272/',
   github: 'https://github.com/moisesramirezb'
 }
 
