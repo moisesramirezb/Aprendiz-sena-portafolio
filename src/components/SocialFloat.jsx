@@ -2,7 +2,7 @@ import './SocialFloat.css'
 
 const SOCIALES = [
   { nombre: 'GitHub', url: 'https://github.com/moisesramirezb', icon: 'github' },
-  { nombre: 'LinkedIn', url: 'https://www.linkedin.com/in/moises-ramirez-482459272/', icon: 'linkedin' }
+  { nombre: 'LinkedIn', url: 'www.linkedin.com/in/moises-ramirez-brito-482459272', icon: 'linkedin' }
 ]
 
 export default function SocialFloat() {
