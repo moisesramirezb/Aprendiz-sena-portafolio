@@ -1,0 +1,41 @@
+.sobre-mi {
+  background: var(--bg-secondary);
+}
+
+.sobre-mi-content {
+  max-width: 700px;
+}
+
+.sobre-mi-content p {
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.sobre-mi-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.tag {
+  padding: 8px 16px;
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .sobre-mi-content p {
+    font-size: 15px;
+  }
+  
+  .tag {
+    font-size: 13px;
+    padding: 6px 12px;
+  }
+}

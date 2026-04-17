@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "sobreMi": "Sobre mí",
+    "proyectos": "Proyectos",
+    "habilidades": "Habilidades",
+    "contacto": "Contacto"
+  },
+  "hero": {
+    "saludo": "Hola, soy",
+    "nombre": "Moises Ramirez",
+    "cargo": "Aprendiz SENA en etapa productiva",
+    "carrera": "Analisis y Desarrollo de Software",
+    "descripcion": "Desarrollo aplicaciones en tiempo real con Node.js y Socket.IO. También implento interfaces con React. Enfocado en crear soluciones eficientes.",
+    "verProyectos": "Ver Proyectos",
+    "contactarme": "Contactarme"
+  },
+  "sobreMi": {
+    "titulo": "Sobre mí",
+    "parrafo1": "Soy aprendiz SENA de la tecnología en Análisis y Desarrollo de Software (ADSO) actualmente en etapa productiva. Tengo formación en el ciclo completo de desarrollo de software, desde el análisis de requisitos hasta el despliegue.",
+    "parrafo2": "Me especializo en desarrollo web con Node.js y aplicaciones en tiempo real. También implemento interfaces con React. Busco una oportunidad para aplicar mis conocimientos en un entorno real, aportar valor y seguir aprendiendo.",
+    "tags": ["Desarrollador Web", "Node.js", "React", "Tiempo Real"]
+  },
+  "proyectos": {
+    "titulo": "Proyectos"
+  },
+  "habilidades": {
+    "titulo": "Habilidades"
+  },
+  "contacto": {
+    "titulo": "Contacto",
+    "descripcion": "Estoy disponible para realizar mi etapa productiva (prácticas) en desarrollo web. Envíame un mensaje.",
+    "nombrePlaceholder": "nombre",
+    "mensajePlaceholder": "mensaje",
+    "enviar": "Enviar mensaje",
+    "enviado": "Redirigiendo a tu cliente de correos electronicos...",
+    "enviarOtro": "Enviar otro",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "derechos": "Todos los derechos reservados."
+  }
+}

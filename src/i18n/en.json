@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "sobreMi": "About",
+    "proyectos": "Projects",
+    "habilidades": "Skills",
+    "contacto": "Contact"
+  },
+  "hero": {
+    "saludo": "Hi, I'm",
+    "nombre": "Moises Ramirez",
+    "cargo": "SENA apprentice in productive stage",
+    "carrera": "Analysis and Software Development",
+    "descripcion": "I develop real-time applications with Node.js and Socket.IO. I also implement interfaces with React. Focused on creating efficient solutions.",
+    "verProyectos": "View Projects",
+    "contactarme": "Contact Me"
+  },
+  "sobreMi": {
+    "titulo": "About Me",
+    "parrafo1": "I am a SENA apprentice in Analysis and Software Development (ADSO) currently in productive stage. I have training in the complete software development lifecycle, from requirements analysis to deployment.",
+    "parrafo2": "I specialize in web development with Node.js and real-time applications. I also implement interfaces with React. I am looking for an opportunity to apply my knowledge in a real environment, contribute value, and keep learning.",
+    "tags": ["Web Developer", "Node.js", "React", "Real-Time"]
+  },
+  "proyectos": {
+    "titulo": "Projects"
+  },
+  "habilidades": {
+    "titulo": "Skills"
+  },
+  "contacto": {
+    "titulo": "Contact",
+    "descripcion": "I am available to do my productive internship (practices) in web development. Send me a message.",
+    "nombrePlaceholder": "Your name",
+    "mensajePlaceholder": "Your message",
+    "enviar": "Send message",
+    "enviado": "Redirecting to your email client...",
+    "enviarOtro": "Send another",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "derechos": "All rights reserved."
+  }
+}
